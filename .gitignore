@@ -1,0 +1,20 @@
+# Datasets grandes
+data/*.csv
+*.zip
+*.rar
+*.tar.gz
+
+# Entornos
+.venv/
+env/
+__pycache__/
+
+# Archivos de resultados y modelos
+results/
+models/
+artifacts/
+
+# Archivos temporales
+*.log
+*.tmp
+data\*.csv
